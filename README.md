@@ -66,6 +66,6 @@ Author
 Tarun Kothapet
 
 • GitHub: https://github.com/tarun-kothapet
-• LinkedIn: https://www.linkedin.com/in/kothapettarun
+• LinkedIn: https://www.linkedin.com/in/tarunkothapet
 
 If you like this project, consider giving it a star on GitHub.
